@@ -1,0 +1,26 @@
+User : ID (int)
+       First name (string)
+       Last name (string)
+       Address (string)
+       Email (string)
+       Phone (string)
+       Password (string)
+
+       read accoding(self)
+       withdraw money
+       deposit money
+
+Manage: Manage ID (int)
+        Manage Password (string)
+
+        create user (return userID (int))
+        create accoding
+        upade user (by userID)
+        delete user (by userID)
+        search user (by userID)
+
+Accoding: Accoding number (string)
+          Saving number (string)
+          Checking number (string)
+
+
