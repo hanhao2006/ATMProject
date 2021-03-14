@@ -15,9 +15,11 @@ Manage: Manage ID (int)
 
         create user (return userID (int))
         create accoding
-        upade user (by userID)
+        upade user (by userID) 
         delete user (by userID)
         search user (by userID)
+	
+	
 
 Accoding: Accoding number (string)
           Saving number (string)
